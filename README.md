@@ -11,3 +11,9 @@ npm install
 node index.js
 
 App runs on: http://localhost:3000
+
+## Live Demo
+https://hello-devops-5sak.onrender.com
+
+## Description
+This project demonstrates a simple Node.js application containerized with Docker and deployed to Render.
