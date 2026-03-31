@@ -59,4 +59,4 @@ npm install
 npm start
 
 App runs on:
-http://localhost:3000s
+http://localhost:3000
