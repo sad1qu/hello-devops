@@ -27,9 +27,6 @@ It demonstrates how to:
 - AWS EC2 (manual configuration)
 - Render (application hosting)
 
-GitHub → GitHub Actions → Docker build
-↓
-Render
 ---
 
 ## ⚙️ CI Pipeline
