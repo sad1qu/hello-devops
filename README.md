@@ -1,13 +1,13 @@
-# 🚀 hello-devops
+# hello-devops
 
 > Dockerized Node.js application with CI pipeline using GitHub Actions
 
-## 🌐 Live Demo
+## Live Demo
 https://hello-devops-5sak.onrender.com
 
 ---
 
-## 📖 About
+## About
 
 This project started as a simple Node.js (Express) application and evolved into a DevOps-oriented project.
 
@@ -19,7 +19,7 @@ It demonstrates how to:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 - Node.js (Express) application
 - Docker containerization
@@ -29,7 +29,7 @@ It demonstrates how to:
 
 ---
 
-## ⚙️ CI Pipeline
+## CI Pipeline
 
 The project uses GitHub Actions to:
 
@@ -38,7 +38,7 @@ The project uses GitHub Actions to:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Node.js
 - Express
@@ -49,7 +49,7 @@ The project uses GitHub Actions to:
 
 ---
 
-## ▶️ Run locally
+## Run locally
 
 ```bash
 git clone https://github.com/sad1qu/hello-devops.git
