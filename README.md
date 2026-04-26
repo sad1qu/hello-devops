@@ -1,4 +1,4 @@
-# hello-devops
+hello-devops
 
 > Dockerized Node.js application with CI pipeline using GitHub Actions
 
