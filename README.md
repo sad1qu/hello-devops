@@ -1,6 +1,6 @@
-hello-devops
+# hello-devops
 
-> Dockerized Node.js application with CI pipeline using GitHub Actions
+ Dockerized Node.js application with CI pipeline using GitHub Actions
 
 ## Live Demo
 https://hello-devops-5sak.onrender.com
